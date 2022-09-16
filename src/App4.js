@@ -2,7 +2,7 @@ import React, {useState,useEffect} from 'react'
 
 
 
-
+//UseEffect hook used to display the live changing width of the screen 
 
 
 
