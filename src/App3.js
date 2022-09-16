@@ -19,6 +19,7 @@ const App3 = () => {
     <>
       <form action="" onSubmit={funct}>
         <div>
+          <h1>Enter form</h1>
           <label htmlFor="email">enter email</label>
           <input
             type="email"
